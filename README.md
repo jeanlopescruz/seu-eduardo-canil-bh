@@ -3,9 +3,9 @@
 ## Teste prático
 
 ### Executar:
-...
+```
 yarn start
-...
+```
 
 ### Premissas assumidas
 Sistema de suporte a decisão;
